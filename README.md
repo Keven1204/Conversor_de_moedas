@@ -4,5 +4,5 @@ Nesse projeto o conversor de moedas esta convertendo do real para Dólar, Euro, 
 <h3>Projeto esta responsivo para mobile.</h3> 
 <h3> 
   Utilizei as seguintes tecnologias: Html , Css e Javascript.
-<img src="https://github.com/Keven204/Conversor_de_moedas/blob/main/conversordesktop.png?raw=true">
-<img src="https://github.com/Keven204/Conversor_de_moedas/blob/main/conversor%20mobile.png?raw=true">
+<img src="https://github.com/Weslley-silva23/projeto-conversor-de-moedas/blob/main/conversor%20desktop.png?raw=true">
+<img src="https://github.com/Weslley-silva23/projeto-conversor-de-moedas/blob/main/conversor%20mobile.png?raw=true">

@@ -1,6 +1,6 @@
   <h1> Projeto Conversor de moedas </h1>
 <h2> Nesse projeto desenvolvi um conversor de moedas simples.
-O projeto o conversor de moedas esta convertendo do real para Dólar, Euro, libra ou Bitcoin. </h2>
+O projeto o conversor de moedas está convertendo do real para Dólar, Euro, libra ou Bitcoin. </h2>
 <h3>Projeto esta responsivo para mobile.</h3> 
 <h3> 
   Utilizei as seguintes tecnologias: Html , Css e Javascript.

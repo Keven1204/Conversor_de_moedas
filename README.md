@@ -1,5 +1,5 @@
   <h1> Projeto Conversor de moedas </h1>
-<h2> Nesse projeto pratiquei ele com ajuda do meu professor no curso Dev club.
+<h2> Nesse projeto desenvolvi um conversor de moedas simples.
 Nesse projeto o conversor de moedas esta convertendo do real para Dólar, Euro, libra ou Bitcoin. </h2>
 <h3>Projeto esta responsivo para mobile.</h3> 
 <h3> 
